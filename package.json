@@ -1,0 +1,33 @@
+{
+  "name": "test-backend-pt-data-integrasi-inovasi",
+  "version": "1.0.0",
+  "description": "test backend dev di pt data integrasi inovasi 2025",
+  "main": "app.js",
+  "type": "module",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/synchhans/test-backend-pt-data-integrasi-inovasi.git"
+  },
+  "keywords": [
+    "test",
+    "backend",
+    "pt.dataintegrasiinovasi"
+  ],
+  "author": "Muhamad Farhan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/synchhans/test-backend-pt-data-integrasi-inovasi/issues"
+  },
+  "homepage": "https://github.com/synchhans/test-backend-pt-data-integrasi-inovasi#readme",
+  "dependencies": {
+    "bcrypt": "^6.0.0",
+    "dotenv": "^16.5.0",
+    "express": "^5.1.0",
+    "jsonwebtoken": "^9.0.2",
+    "moment": "^2.30.1",
+    "mongoose": "^8.15.1"
+  }
+}
